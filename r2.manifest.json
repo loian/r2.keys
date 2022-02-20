@@ -1,0 +1,13 @@
+{
+  "id": "1234",
+  "name": "R2 keyboard simulator",
+  "author": "Lorenzo Iannone",
+  "description": "Key press plugin",
+  "actions": [
+    {
+      "name": "keypress",
+      "code": "keypress",
+      "description": "simulate a key combination"
+    }
+  ]
+}
